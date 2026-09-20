@@ -159,6 +159,6 @@ See [LICENSE](LICENSE) for full terms.
   year         = {2026},
   month        = sep,
   howpublished = {\url{https://github.com/shajibghosh/ai-concept-book}},
-  note         = {Licensed under CC BY 4.0. Accessed: 2026-09-20}
+  note         = {Licensed under CC BY 4.0.}
 }
 ```
