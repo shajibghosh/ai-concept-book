@@ -1,2 +1,2 @@
-# AI Concepts Playbook
+# AI Concept Book
 My personal notebook to keep track of the latest AI concepts and the resources.
