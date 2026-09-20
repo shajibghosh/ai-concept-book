@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "The Modern AI Concept Book"
+version: "Edition 2"
+date-released: 2026-09-20
+type: dataset
+authors:
+  - family-names: Ghosh
+    given-names: Shajib
+repository-code: "https://github.com/shajibghosh/ai-concept-book"
+license: CC-BY-4.0
+preferred-citation:
+  type: book
+  title: "The Modern AI Concept Book"
+  edition: "2"
+  authors:
+    - family-names: Ghosh
+      given-names: Shajib
+  year: 2026
+  month: 9
+  url: "https://github.com/shajibghosh/ai-concept-book"
+  license: CC-BY-4.0
