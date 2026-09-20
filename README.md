@@ -152,7 +152,13 @@ See [LICENSE](LICENSE) for full terms.
 ## Cite
 
 ```text
-The Modern AI Concept Book, Edition 2 (September 2026).
-https://github.com/shajibghosh/ai-concept-book
-Licensed under CC BY 4.0.
+@misc{ghosh2026modernaiconceptbook,
+  author       = {Ghosh, Shajib},
+  title        = {The Modern {AI} Concept Book},
+  edition      = {2},
+  year         = {2026},
+  month        = sep,
+  howpublished = {\url{https://github.com/shajibghosh/ai-concept-book}},
+  note         = {Licensed under CC BY 4.0. Accessed: 2026-09-20}
+}
 ```
