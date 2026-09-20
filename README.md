@@ -99,7 +99,6 @@ Key points
 ```text
 .
 ├── README.md                 this file
-├── DESCRIPTION.md            short description, GitHub "About" text and topics
 ├── LICENSE                   CC BY 4.0 for content, MIT for code
 ├── CONCEPT_BOOK.md           single-file Markdown edition
 ├── book/                     Markdown edition, one file per chapter
@@ -154,6 +153,6 @@ See [LICENSE](LICENSE) for full terms.
 
 ```text
 The Modern AI Concept Book, Edition 2 (September 2026).
-https://github.com/<your-username>/ai-concept-book
+https://github.com/shajibghosh/ai-concept-book
 Licensed under CC BY 4.0.
 ```
